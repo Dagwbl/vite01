@@ -6,16 +6,17 @@ import GetData from './components/GetData.vue';
 import crud from './components/crud.vue';
 import vformDesign from './components/vformDesign.vue';
 import VhtmlVue from './components/vhtml.vue';
-
+import tabs from './components/tabs.vue'
 </script>
 
 
 <template>
   <!-- <HelloWorld msg="Vite & Vue" /> -->
   <!-- <GetData></GetData> -->
-  <crud></crud>
+  <!-- <crud></crud> -->
   <!-- <vformDesign></vformDesign> -->
   <!-- <VhtmlVue></VhtmlVue> -->
+  <tabs></tabs>
 </template>
 
 <style scoped>
